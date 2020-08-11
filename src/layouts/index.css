@@ -1,0 +1,11 @@
+
+.rootLayOut {
+  background: rgba(5, 5, 5, 0.1);
+  border: 1px solid blue;
+  height: 800px;
+}
+
+a {
+  margin-left: 5px;
+  margin-right: 5px;
+}
